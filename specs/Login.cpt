@@ -1,0 +1,12 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Kullanıcı alanı ve sifre alanı bilgisini gir
+
+* "4" saniye kadar bekle
+* Id = "com.ozdilek.ozdilekteyim:id/etEposta" olan elementi bul ve "TESTİNİUM" degerini yaz
+* "1" saniye kadar bekle
+* Id = "com.ozdilek.ozdilekteyim:id/etPassword" olan elementi bul ve "TESTİNİUM" degerini yaz.
+* "2" saniye kadar bekle
+* Geri butonuna iki kere tıkla
+* "1" saniye kadar bekle

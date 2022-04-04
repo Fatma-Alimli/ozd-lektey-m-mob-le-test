@@ -1,0 +1,9 @@
+Created by testinium on 3.04.2022
+
+This is a concept file with following syntax for each concept.
+# Alışverişe başla butonuna tıkla
+* "6" saniye kadar bekle
+//* Id = "com.ozdilek.ozdilekteyim:id/ivSplash" olan elementi bul ve tıkla
+* "7" saniye kadar bekle
+* Id = "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" olan elementi bul ve tıkla
+* "2" saniye kadar bekle

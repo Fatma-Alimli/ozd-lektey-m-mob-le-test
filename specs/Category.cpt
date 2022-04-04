@@ -1,0 +1,7 @@
+Created by testinium on 3.04.2022
+
+This is a concept file with following syntax for each concept.
+# Kategori sekmesine tıkla
+* "5" saniye kadar bekle
+* Kategori Id = "com.ozdilek.ozdilekteyim:id/nav_categories" olan elementi bul ve tıkla
+* "1" saniye kadar bekle

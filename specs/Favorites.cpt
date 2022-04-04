@@ -1,0 +1,7 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Favoriler butonuna tıkla
+* "5" saniye kadar bekle
+* Id = "com.ozdilek.ozdilekteyim:id/imgFav" olan elemente tıkla ve "com.ozdilek.ozdilekteyim:id/clContainer" li acılan sayfayı dogrula
+* "4" saniye kadar bekle

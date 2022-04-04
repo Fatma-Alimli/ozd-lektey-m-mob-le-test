@@ -1,0 +1,11 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Rastgele bir ürün seç
+* "1" saniye kadar bekle
+* Xpath = "//*[@resource-id=\"com.ozdilek.ozdilekteyim:id/recyclerView\"]" olan elementi bul ve tıkla..
+
+# Ürün detay sayfasında oldugunu dogrula
+* "4" saniye kadar bekle
+* "com.ozdilek.ozdilekteyim:id/iv" elementinin sayfada gorunur oldugunu kontrol et
+* "5" saniye kadar bekle
